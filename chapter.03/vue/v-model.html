@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
+  </head>
+  <body>
+    <div id="app"></div>
+    <img :src="imgSrc" alt="강아지" />
+    <button v-on:click="changeImgSrc">이미지 변경</button>
+  </body>
+  <script>
+    const app = Vue.createApp({
+      name: 'App',
+      data() {
+        return {
+          imgSrc:
+            'https://cdn.imweb.me/upload/S201910012ff964777e0e3/62f9a36ea3cea.jpg',
+        };
+      },
+      methods: {
+        changeImgSrc() {
+          this.imgSrc =
+            'https://www.fitpetmall.com/wp-content/uploads/2023/09/shutterstock_2205178589-1-1.png';
+        },
+      },
+    }).mount('#app');
+  </script>
+</html>

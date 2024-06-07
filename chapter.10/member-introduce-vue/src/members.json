@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "주디",
+    "role": "일렉기타",
+    "photo": "https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMjAxMTNfMjA3%2FMDAxNjQyMDEwMTcyNjQ3.MhfEBuD6ZzugUVIJe-XGV-Gz-Yse_eZURPzI2j8hDT0g.z3nHNUfxST7eJwo3Sy7n5png59tz4gWBQWRIjWdQSAAg.JPEG.only_my_diary%2FScreenshot%25A3%25DF20220111%25A3%25AD021943%25A3%25DFNaver_TV.jpg&type=sc960_832",
+    "desc": "막내, 일렉기타, 비주얼센터",
+    "insta": ""
+  },
+  {
+    "id": 2,
+    "name": "짱구",
+    "role": "싱어",
+    "photo": "https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNDAxMTVfMjAz%2FMDAxNzA1MzAwNTI0NDEy.ZVCG4ZhproxxHq-4e-IJFHbE-rmMi8KASBtPxm8H_6Mg.xuRAQEgtRXXCwfcHRJjQFp0lW3NrX3S40-f6T1OxF88g.PNG.normalert%2FKakaoTalk_20240115_145018798_15.png&type=sc960_832",
+    "desc": "팀리더, 싱어",
+    "insta": ""
+  },
+  {
+    "id": 3,
+    "name": "모리 타카시",
+    "role": "드럼",
+    "photo": "https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMjA5MjFfMTQz%2FMDAxNjYzNzQwMjgxODA0.1bPeLwcUVIWOzFmB73kSjh7T4BJI8WDPrsUv7odDGdwg.y5YRiV6fEyIvFbOu_9F_GCroSZuQ-BSTItIIi1lPNS0g.JPEG.hujisang%2FIMG_8750.jpeg&type=sc960_832",
+    "desc": "청일점, 드럼",
+    "insta": ""
+  }
+]

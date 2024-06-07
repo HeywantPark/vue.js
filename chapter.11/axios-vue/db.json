@@ -1,0 +1,35 @@
+{
+  "todos": [
+    {
+      "id": "3",
+      "todo": "vue 로그인 구현하기",
+      "done": false
+    },
+    {
+      "id": "4",
+      "todo": "오늘 수업 내용 복습",
+      "done": false
+    },
+    {
+      "id": "5405",
+      "todo": "헬스장 가기",
+      "done": false,
+      "editing": false
+    },
+    {
+      "id": "7bb0",
+      "todo": "집에 가서 저녁 먹기",
+      "done": false
+    }
+  ],
+  "users": [
+    {
+      "id": "12",
+      "password": "12"
+    },
+    {
+      "id": "db1648",
+      "password": "9p43"
+    }
+  ]
+}
